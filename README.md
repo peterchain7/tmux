@@ -31,3 +31,10 @@ Once you have created more than one window in tmux, it's often useful to see the
 
 Alternatively, you can use your arrow keys to navigate to a pane according to your layout. For example, if you've got two open panes divided by a horizontal split, you can press Ctrl+B followed by the Up arrow to switch from the lower pane to the top pane. Likewise, Ctrl+B followed by the Down arrow switches from the upper pane to the lower one.
 
+### COPY mode .When you have diffent panez yo may found no scrow.. so we need to enter `copy mode` so that we can scrow
+
+* To enter `copy mode` just `ctrl+b` and followed by `[`.. Then use the `up and down scrow button`
+* to move to the top 
+
+#### Reference
+   * https://tmuxcheatsheet.com/
