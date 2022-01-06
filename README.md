@@ -35,6 +35,8 @@ Alternatively, you can use your arrow keys to navigate to a pane according to yo
 
 * To enter `copy mode` just `ctrl+b` and followed by `[`.. Then use the `up and down scrow button`
 * to move to the top 
-
+## Tmux cheetsheet
+  ![](images/tmux_cheetsheet.png)
 #### Reference
    * https://tmuxcheatsheet.com/
+   * https://tryhackme.com/room/rptmux
