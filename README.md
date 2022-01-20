@@ -38,6 +38,7 @@ Alternatively, you can use your arrow keys to navigate to a pane according to yo
 
 ### tmuxremux
  * https://tryhackme.com/roo 
+ * https://kamalares.tech/REmuxTheTmux/
    
      
          ctl+b s ==> to  list all open sessions
