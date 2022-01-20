@@ -35,6 +35,17 @@ Alternatively, you can use your arrow keys to navigate to a pane according to yo
 
 * To enter `copy mode` just `ctrl+b` and followed by `[`.. Then use the `up and down scrow button`
 * to move to the top 
+
+### tmuxremux
+ * https://tryhackme.com/roo 
+   
+     
+         ctl+b s ==> to  list all open sessions
+         
+         tmux new -s mysession  ==> start new tmux sesssion with a name mysession
+         tmux new -s kali -d ==> How to create a new tmux session from your current tmux session with the name kali?
+         tmux kill-session -t kali ==> to Delete a single session by its session name (kali session will be killed)
+   
 ## Tmux cheetsheet
   ![](images/tmux_cheetsheet.png)
 #### Reference
