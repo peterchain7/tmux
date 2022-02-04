@@ -37,10 +37,8 @@ Alternatively, you can use your arrow keys to navigate to a pane according to yo
 * to move to the top 
 
 ### tmuxremux
- * https://tryhackme.com/roo 
- * https://kamalares.tech/REmuxTheTmux/
-   
-     
+
+  
          ctl+b s ==> to  list all open sessions
          
          tmux new -s mysession  ==> start new tmux sesssion with a name mysession
@@ -52,3 +50,4 @@ Alternatively, you can use your arrow keys to navigate to a pane according to yo
 #### Reference
    * https://tmuxcheatsheet.com/
    * https://tryhackme.com/room/rptmux
+   * https://kamalares.tech/REmuxTheTmux/
