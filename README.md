@@ -27,20 +27,22 @@ Once you have created more than one window in tmux, it's often useful to see the
     Ctrl+B Alt+5: Tiled layout
     
 ### Switching between panes
-  To get from one pane to another, press Ctrl+B followed by O (as in other). The border around the pane changes color based on your position, and your terminal cursor changes to its active state. This method "walks" through panes in order of creation.
+  To get from one pane to another, press `Ctrl+B` followed by O (as in other). The border around the pane changes color based on your position, and your terminal cursor changes to its active state. This method "walks" through panes in order of creation.
 
 Alternatively, you can use your arrow keys to navigate to a pane according to your layout. For example, if you've got two open panes divided by a horizontal split, you can press Ctrl+B followed by the Up arrow to switch from the lower pane to the top pane. Likewise, Ctrl+B followed by the Down arrow switches from the upper pane to the lower one.
 
 ### COPY mode .When you have diffent panez yo may found no scrow.. so we need to enter `copy mode` so that we can scrow
 
-* To enter `copy mode` just `ctrl+b` and followed by `[`.. Then use the `up and down scrow button`
+* To enter `copy mode` just `ctrl+b` and followed by `[`.. Then use the `up and down scrow button` or `pg dn adn pg up`
+* To paste `ctr+b` and followed by `]` or open new file  with `vi myfile.txt` and `ctr+b` then `]`.
 * to move to the top 
 
 ### tmuxremux
 
   
-         ctl+b s ==> to  list all open sessions
-         
+         ctl+b s ==> to  list all open sessions => in tmux session
+         tmux s => out ot tmux session and 
+         tmux attach -s sessionName  => to inter in tmux terminal
          tmux new -s mysession  ==> start new tmux sesssion with a name mysession
          tmux new -s kali -d ==> How to create a new tmux session from your current tmux session with the name kali?
          tmux kill-session -t kali ==> to Delete a single session by its session name (kali session will be killed)
