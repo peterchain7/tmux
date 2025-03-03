@@ -33,7 +33,7 @@ Alternatively, you can use your arrow keys to navigate to a pane according to yo
 
 ### COPY mode .When you have diffent panez yo may found no scrow.. so we need to enter `copy mode` so that we can scrow
 
-* To enter `copy mode` just `ctrl+b` and followed by `[`.. Then use the `up and down scrow button` or `pg dn adn pg up`
+* To enter `copy mode` just `ctrl+b` and followed by `[`.. Then use the `up and down scrow button` or `pg dn adn pg up` or `ctr+b` then `ctr+space` to select text then `alt+w` to copy to clipboard.
 * To paste `ctr+b` and followed by `]` or open new file  with `vi myfile.txt` and `ctr+b` then `]`.
 * to move to the top 
 
